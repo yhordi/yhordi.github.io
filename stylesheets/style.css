@@ -1,16 +1,28 @@
 /**{
   outline: 1px solid red;
 }
-*/.top{
+*/
+
+@font-face {
+  font-family: Avenir;
+  src: url(fonts/Avenir.ttc);
+}
+
+.top{
   text-align: center;
-  font-family: 'Verdana', sans-serif;
+  font-family: 'Avenir', sans-serif;
+  font-size: 2em;
   background-color: #628262;
+  padding: .25em;
+  margin-bottom: 1em;
+  border-bottom: .25em solid black;
 }
 
 .big-project{
-  width: 100%;
-  
+  width: 95%;
+  margin-bottom: 5%;
+  border-bottom: .10em solid #D3D3D3;
 }
 body{
-  background-color: f7f7f7;
+  background-color: #E8E6E6;
 }
