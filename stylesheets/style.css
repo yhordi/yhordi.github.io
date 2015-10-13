@@ -5,7 +5,7 @@
 
 @font-face {
   font-family: Avenir;
-  src: url(fonts/Avenir.ttc);
+  src: url(../fonts/Avenir.ttc);
 }
 
 .top{
@@ -44,4 +44,8 @@
 
 body{
   background-color: #E8E6E6;
+}
+
+.description{
+  margin-bottom: 1em;
 }
