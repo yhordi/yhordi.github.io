@@ -39,7 +39,7 @@
     set bottom padding if desired
 */
 .row {
-    padding-bottom: 0;
+    padding-bottom: 1em;
 }
 
 /*

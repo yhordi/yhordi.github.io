@@ -8,6 +8,12 @@
   src: url(../fonts/Avenir.ttc);
 }
 
+#pic{
+  width: 6em;
+  border-radius: 50%;
+  border: 1px solid #929292;
+}
+
 .top{
   text-align: center;
   font-family: 'Avenir', sans-serif;
@@ -15,7 +21,7 @@
   background-color: #628262;
   padding: .25em;
   margin-bottom: 1em;
-  border-bottom: .25em solid black;
+  border-bottom: .25em solid #929292;
 }
 
 .big-project{
